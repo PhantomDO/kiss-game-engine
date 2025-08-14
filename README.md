@@ -59,10 +59,10 @@ Inspiré des arbres de compétences des RPG.
 
 ## 📦 Organisation du dépôt
 
-/docs → Notes, schémas, README
-/src → Code source moteur
-/assets → Ressources (modèles, textures, sons)
-/tests → Projets de test
+- /docs → Notes, schémas, README
+- /src → Code source moteur
+- /assets → Ressources (modèles, textures, sons)
+- /tests → Projets de test
 
 ---
 
