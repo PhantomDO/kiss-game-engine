@@ -5,6 +5,10 @@ Inspiré des arbres de compétences des RPG.
 
 ---
 
+![Skill Tree](skilltree.png)
+
+---
+
 ## 🎯 Golden Path – Étapes principales
 
 1. **Core Rendu** – Initialiser l’API (OpenGL/Vulkan/WebGL), afficher un triangle puis un cube.
