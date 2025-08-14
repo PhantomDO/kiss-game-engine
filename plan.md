@@ -11,9 +11,9 @@
 [Core Rendu] (Golden Path) → Initialiser l’API, afficher un triangle, puis un cube.
 
 ### Branches secondaires :
-1️⃣ Charger un modèle 3D simple (ex. GLTF) – Priorité Haute
-2️⃣ Matériaux simples (couleur, texture) – Priorité Haute
-3️⃣ Ombres simples – Priorité Basse (car tu peux jouer sans ombres au début)
+- 1️⃣ Charger un modèle 3D simple (ex. GLTF) – Priorité Haute
+- 2️⃣ Matériaux simples (couleur, texture) – Priorité Haute
+- 3️⃣ Ombres simples – Priorité Basse (car tu peux jouer sans ombres au début)
 
 ## Niveau 2 – Organisation des objets
 
@@ -24,9 +24,9 @@
 [Gestion de Scène] (Golden Path) → Stocker, charger et manipuler les entités d’une scène.
 
 ### Branches secondaires :
-1️⃣ Arbre hiérarchique parent/enfant – Priorité Haute
-2️⃣ Multi-scènes – Priorité Moyenne
-3️⃣ Chargement d’assets automatique – Priorité Basse
+- 1️⃣ Arbre hiérarchique parent/enfant – Priorité Haute
+- 2️⃣ Multi-scènes – Priorité Moyenne
+- 3️⃣ Chargement d’assets automatique – Priorité Basse
 
 ## Niveau 3 – Structure interne
 
@@ -37,8 +37,8 @@
 [ECS] (Golden Path) → Entités + composants + systèmes.
 
 ### Branches secondaires :
-1️⃣ Inspecteur de composants – Priorité Haute (utile pour debug très vite)
-2️⃣ Composants dynamiques (ajout/retrait à runtime) – Priorité Moyenne
+- 1️⃣ Inspecteur de composants – Priorité Haute (utile pour debug très vite)
+- 2️⃣ Composants dynamiques (ajout/retrait à runtime) – Priorité Moyenne
 
 ## Niveau 4 – Vie et ambiance
 
@@ -51,12 +51,12 @@
 [Physique] (Golden Path) → Gravité et collisions simples.
 
 ### Branches secondaires Audio :
-1️⃣ Sons spatialisés 3D – Priorité Moyenne
-2️⃣ Musique en streaming – Priorité Basse
+- 1️⃣ Sons spatialisés 3D – Priorité Moyenne
+- 2️⃣ Musique en streaming – Priorité Basse
 
 ### Branches secondaires Physique :
-1️⃣ Triggers pour gameplay – Priorité Haute
-2️⃣ Collisions avancées (mesh) – Priorité Basse
+- 1️⃣ Triggers pour gameplay – Priorité Haute
+- 2️⃣ Collisions avancées (mesh) – Priorité Basse
 
 ## Niveau 5 – Interaction et contrôle
 
@@ -67,8 +67,8 @@
 [UI] (Golden Path) → Afficher texte et boutons.
 
 ### Branches secondaires :
-1️⃣ Système de layout – Priorité Moyenne
-2️⃣ Skins personnalisés – Priorité Basse
+- 1️⃣ Système de layout – Priorité Moyenne
+- 2️⃣ Skins personnalisés – Priorité Basse
 
 ## Niveau 6 – Création de gameplay
 
@@ -79,8 +79,8 @@
 [Scripting] (Golden Path) → Intégrer Lua ou Python.
 
 ### Branches secondaires :
-1️⃣ Hot-reload de scripts – Priorité Haute
-2️⃣ API scripting documentée – Priorité Moyenne
+- 1️⃣ Hot-reload de scripts – Priorité Haute
+- 2️⃣ API scripting documentée – Priorité Moyenne
 
 ## Niveau 7 – Productivité
 
@@ -91,8 +91,8 @@
 [Éditeur] (Golden Path) → Interface de placement et modification des entités.
 
 ### Branches secondaires :
-1️⃣ Gizmos (déplacer/rotater/scaler) – Priorité Haute
-2️⃣ Vue multi-fenêtres – Priorité Moyenne
+- 1️⃣ Gizmos (déplacer/rotater/scaler) – Priorité Haute
+- 2️⃣ Vue multi-fenêtres – Priorité Moyenne
 
 ## Niveau 8 – Multi
 
@@ -103,8 +103,8 @@
 [Réseau] (Golden Path) → Client/serveur simple.
 
 ### Branches secondaires :
-1️⃣ Prediction & interpolation – Priorité Moyenne
-2️⃣ Chat in-game – Priorité Basse
+- 1️⃣ Prediction & interpolation – Priorité Moyenne
+- 2️⃣ Chat in-game – Priorité Basse
 
 ---
 
