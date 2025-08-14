@@ -5,12 +5,6 @@ Inspiré des arbres de compétences des RPG.
 
 ---
 
-![Skill Tree](skilltree.png)
-
-*Image généré par ChatGPT*
-
----
-
 ## 🎯 Golden Path – Étapes principales
 
 1. **Core Rendu** – Initialiser l’API (OpenGL/Vulkan/WebGL), afficher un triangle puis un cube.
@@ -78,3 +72,9 @@ Inspiré des arbres de compétences des RPG.
 2. Pas d’optimisation prématurée.
 3. Une étape = un objectif clair avant de passer à la suivante.
 4. Le code doit être lisible par un débutant intéressé par le moteur.
+
+---
+
+![Skill Tree](skilltree.png)
+
+*Image généré par ChatGPT*
