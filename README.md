@@ -7,6 +7,8 @@ Inspiré des arbres de compétences des RPG.
 
 ![Skill Tree](skilltree.png)
 
+*Image généré par ChatGPT*
+
 ---
 
 ## 🎯 Golden Path – Étapes principales
