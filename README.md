@@ -77,4 +77,4 @@ Inspiré des arbres de compétences des RPG.
 
 ![Skill Tree](skilltree.png)
 
-*Image généré par ChatGPT*
+*Image et plan généré par ChatGPT*
